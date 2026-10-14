@@ -2,7 +2,7 @@
 
 A semantic search application that allows users to find and explore academic courses using natural language queries, powered by vector embeddings and **Pinecone**.
 
-## 🚀 Features
+## Features
 - **Semantic Course Retrieval:** Find relevant courses even if your search terms don't match the exact words in the course catalog.
 - **Pinecone Vector Database:** Fast, scalable similarity search for high-dimensional course embeddings.
 - **Weighted Assignment Integration:** Custom pipeline supporting weighted logic for course matching.
@@ -10,7 +10,7 @@ A semantic search application that allows users to find and explore academic cou
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Python**
 - **Jupyter Notebook**
 - **Vector Database:** [Pinecone](https://www.pinecone.io/)
@@ -18,7 +18,7 @@ A semantic search application that allows users to find and explore academic cou
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 ```text
 Course-Description-Semantic-Search/
 │
